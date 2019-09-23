@@ -22,7 +22,6 @@ public class RetirementCalculator {
         System.out.println("It's " + currentDate.getYear() +" so you can retire in " + (currentDate.getYear()+(retirementAge-currentAge) ) );
 
 
-
     }
 
 
